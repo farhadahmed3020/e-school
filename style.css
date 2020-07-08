@@ -1,0 +1,107 @@
+
+.active{
+    margin:5px 20px;
+}
+
+.question{
+    color: red;
+    
+}
+.schedule-color{
+    color:rgb(5, 160, 88);
+}
+
+ 
+.group{
+    padding: 10px 40px;
+    background-color:#F0FFF0;
+    
+}
+.top-banner{
+    padding: 20px 20px;
+
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+.btn-round{
+    border: none;
+    border-radius: 20px;
+    padding: 10px 25px;
+    color:white;
+    background-color:#21B573;
+}
+h5{
+    color: gray;
+}
+
+
+ .col{
+    border: none;
+    border-radius: 30px;
+    margin: 20px 20px;
+    
+    padding: 40px 20px;
+}
+
+.col:hover, .card:hover{
+    box-shadow: 20px 20px 15px dimgrey;
+    font-weight: 700;
+
+    color:black;
+    transition: 0.2s;
+}
+.btn-round:hover{
+
+    background-color: gray;
+    transition: 0.2s;
+   
+
+}
+.card-text{
+    color: black !important;
+}
+
+.icon{
+
+    margin-top: 15px;
+    margin-left: 4px;
+    margin-right: 55px;
+
+}
+
+.img-fluid{
+    display: flex;
+}
+
+
+.centerise{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.col{
+    text-align: center;
+}
+
+
+
+.last-section{
+    
+    background-color: black;
+   margin-bottom: 0 !important;
+}
+p{
+    color: white;
+}
+.link{
+    padding: 60px;
+}
+
+
+footer{
+    text-align: center;
+    color: whitesmoke;
+}
+
